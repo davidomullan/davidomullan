@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @davidomullan, a graduate of OSU with a B.S. in CSE.
-- 👀 I’m interested in game develpment, to include programming and 3D modeling.
-- 🌱 I’m currently learning 3D modeling in Maya and relearning the Unity game engine.
-- 💞️ I’m looking to collaborate on indie game development and small opportunities to build experience in programming or modeling.
+- ⚓️ I served for three years as a Surface Warfare Officer and Engineering Division Officer in the US Navy.
+- 👀 I’m interested in game develpment, focused on tools development and game engines.
+- 🌱 I’m in the early days of building my own basic game engine for a fun learning experience.
+- 💞️ I’m looking to collaborate on indie game development and small opportunities to build experience in programming and project workflow.
 - 📫 Reach me via email: davidomullan@gmail.com
 
 <!---
