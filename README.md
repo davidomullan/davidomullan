@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidomullan, a graduate of OSU with a B.S. in CSE.
-- ⚓️ I served for three years as a Surface Warfare Officer and Engineering Division Officer in the US Navy.
+- ⚓️ I served for four years as a Program Manager and Engineering Division Officer in the US Navy.
 - 👀 I’m interested in Backend Development, with a focus in Python and Django.
 - 🌱 I am currently advancing my education through courses on Coursera.
 - 💞️ I’m looking to collaborate on open source projects and complete freelance work to build my resume.
