@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @davidomullan, a graduate of OSU with a B.S. in CSE.
+- 👋 Hi, I’m [@davidomullan](https://www.linkedin.com/in/david-omullan/), a graduate of Ohio State University with a BS in CSE.
 - ⚓️ I served for four years as a Program Manager and Engineering Division Officer in the US Navy.
 - 👀 I’m interested in Web Application Development.
-- 🌱 I am currently advancing my education through courses on Coursera.
+- 🌱 I am currently advancing my education through courses on [Coursera](https://www.coursera.org) and [learnEnough](https://www.learnenough.com).
 - 💞️ I’m looking to collaborate on open source projects and complete freelance work to build my resume.
 - 📫 Reach me via email: davidomullan@gmail.com
 
