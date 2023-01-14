@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open source projects and complete freelance work to build my resume.
 - 📫 Reach me via email: davidomullan@gmail.com
 
-<a href="https://www.learnenough.com/certificates/cbfefa1c"><img src="https://www.learnenough.com/certificates/cbfefa1c/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+<a href="https://www.learnenough.com/certificates/davidomullan"><img src="https://www.learnenough.com/certificates/davidomullan/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 <!---
 davidomullan/davidomullan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
