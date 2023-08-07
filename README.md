@@ -1,8 +1,8 @@
 - 👋 &nbsp;Hi, I’m [@davidomullan](https://www.linkedin.com/in/david-omullan/), a graduate of Ohio State University with a BS in CSE.
 - ⚓️ &nbsp;I served for four years as a Program Manager and Engineering Division Officer in the US Navy.
-- 👀 &nbsp;I’m interested in Web Application and Game Gevelopment.
+- 👀 &nbsp;I’m interested in Machine Learning and Web Applications.
 - 🌱 &nbsp;I am currently advancing my education through courses on [Coursera](https://www.coursera.org) and [learnEnough](https://www.learnenough.com).
-- 💞️ &nbsp;I’m looking to collaborate on open source projects and complete freelance work to build my resume.
+- 💞️ &nbsp;I’m looking to collaborate on open source projects and seeking open developer positions (full-time hire).
 - 📫 &nbsp;Reach me via email: davidomullan@gmail.com
 
 ### 👨🏻‍💻 &nbsp;Learn Enough Courses
