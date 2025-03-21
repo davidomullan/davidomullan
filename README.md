@@ -1,5 +1,5 @@
 👋 &nbsp;Hi, I’m [@davidomullan](https://www.linkedin.com/in/david-omullan/), a graduate of Ohio State University with a BS in CS Eng.  
-💞️ &nbsp;I’m available to contribute to open source projects and dabble in several projects in my free time.
+💞️ &nbsp;I’m available to contribute to open source projects.
 ⚓️ &nbsp;I served for four years as Naval Officer in Japan and California.  
 👀 &nbsp;I’m enjoy working in Web Applications, Game Development, Machine Learning, and Embedded Systems.  
 📫 &nbsp;Reach me via email: davidomullan@gmail.com
