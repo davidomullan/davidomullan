@@ -1,9 +1,9 @@
-👋 &nbsp;Hi, I’m [@davidomullan](https://www.linkedin.com/in/david-omullan/), a graduate of Ohio State University with a BS in CS Eng.  
-💞️ &nbsp;I’m available to contribute to open source projects.  
-⚓️ &nbsp;I served for four years as Naval Officer in Japan and California.  
-👀 &nbsp;I’m enjoy working in Web Applications, Game Development, Machine Learning, and Embedded Systems.  
-📫 &nbsp;Reach me via email: davidomullan@gmail.com
-
+👋 &nbsp;Hi, I’m [@davidomullan](https://www.linkedin.com/in/david-omullan/)   
+💞️ &nbsp;I am available for hire and contribute to open source projects.   
+⚓️ &nbsp;I served for four years as Naval Officer in Japan and California, spent a year as an apprentice electrician, and currently install subsea fiber-optic cable.   
+👀 &nbsp;My undergraduate capstone was in knowledge-based systems, but now I mostly develop tools to help similify my work/life. (Python and C/C++)   
+📫 &nbsp;Reach me via email: davidomullan@gmail.com   
+<!-- Add back later
 #### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -14,3 +14,4 @@
 </p>
 
 <a href="https://www.buymeacoffee.com/davidomullan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+-->
