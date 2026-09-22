@@ -1,8 +1,12 @@
-👋 &nbsp;Hi, I’m [@davidomullan](https://www.linkedin.com/in/david-omullan/)   
-💞️ &nbsp;I am available for hire and contribute to open source projects.   
-⚓️ &nbsp;I served for four years as Naval Officer in Japan and California, spent a year as an apprentice electrician, and currently install subsea fiber-optic cable.   
-👀 &nbsp;My undergraduate capstone was in knowledge-based systems, but now I mostly develop tools to help similify my work/life. (Python and C/C++)   
-📫 &nbsp;Reach me via email: davidomullan@gmail.com   
+👋 &nbsp;Hi, I'm David — engineer and Navy veteran working toward marine autonomy and simulation engineering.
+
+⚓️ &nbsp;I spent four years as a Navy engineering officer (Repair Officer, Auxiliaries Officer, Assistant Chief Engineer), then moved into subsea cable engineering, currently installing subsea fiber-optic cable at SubCom.
+
+🛠️ &nbsp;Rebuilding hands-on software skills through applied projects — currently building a simplified cable-lay dynamics simulator (C++ core, Python visualization) as a way to combine my marine engineering background with systems/autonomy work.
+
+🎓 &nbsp;BS Computer Science and Engineering, The Ohio State University.
+
+📫 &nbsp;davidomullan@gmail.com &nbsp;|&nbsp; [Website](https://www.davidomullan.dev) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/david-omullan/)
 <!-- Add back later
 #### ⚙️ &nbsp;GitHub Analytics
 
