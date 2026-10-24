@@ -6,7 +6,7 @@
 
 🎓 &nbsp;BS Computer Science and Engineering, The Ohio State University.
 
-📫 &nbsp;davidomullan@gmail.com &nbsp;|&nbsp; [Website](https://www.davidomullan.dev) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/david-omullan/)
+📫 &nbsp;me@davidomullan.dev &nbsp;|&nbsp; [Website](https://www.davidomullan.dev) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/david-omullan/)
 <!-- Add back later
 #### ⚙️ &nbsp;GitHub Analytics
 
